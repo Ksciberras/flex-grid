@@ -106,7 +106,21 @@ body {
   font-size: 1.25em;
   height: 100%;
 }
-
+header {
+  color: #fff;
+  height: 200px;
+  display: flex;
+  padding: 2rem;
+  font-size: 3rem;
+}
+.hero-text {
+  color: #fff;
+  padding: 2rem;
+  font-size: 2rem;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
 .wrapper {
   /*add display:flex and set justify-content to space-between*/
   display: flex;
